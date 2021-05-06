@@ -70,10 +70,10 @@ console.log(array)
 // [ 5, 8 ]
 ```
 
-#### With `node-ffi`
+#### With `mt-node-ffi`
 
 ``` js
-var ffi = require('ffi')
+var ffi = require('mt-node-ffi')
 
 // the "int[]" type may be used as a "type" in FFI'd functions or callbacks
 var func = ffi.ForeignFunction(funcPointer, int, [ IntArray, int ])
