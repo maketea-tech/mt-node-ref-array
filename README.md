@@ -24,7 +24,7 @@ Examples
 #### Basic usage
 
 ``` js
-var ref = require('ref')
+var ref = require('mt-node-ref')
 var ArrayType = require('ref-array')
 
 // typedef
