@@ -25,7 +25,7 @@ Examples
 
 ``` js
 var ref = require('mt-node-ref')
-var ArrayType = require('ref-array')
+var ArrayType = require('mt-node-ref-array')
 
 // typedef
 var int = ref.types.int
